@@ -1,0 +1,31 @@
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+.copyright {
+    color: var(--grayColor);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+}
+
+footer i {
+    color: var(--grayColor);
+    margin: 0 15px;
+    font-size: 1.5rem;
+    transition: 0.5s;
+}
+
+footer i:hover {
+    color: var(--whiteColor);
+}
+
+.footerName {
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+}
