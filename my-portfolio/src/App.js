@@ -1,8 +1,12 @@
 import Layout from "./Routes";
+import './index.css'
 
 function App() {
   return (
-    <Layout />
+    <div className="container">
+      <Layout />
+    </div>
+
   );
 }
 
