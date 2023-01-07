@@ -1,15 +1,33 @@
-.header ul {
+.navbar {
     list-style: none;
     display: flex;
     justify-content: center;
     margin-top: 10px;
-    margin-bottom: 10px;
 }
 
-.header ul li {
+.navbar a {
+    position: relative;
     margin: 0 10px;
+    letter-spacing: 0.5px;
+    color: var(--grayColor);
+    transition: 0.6s;
 }
 
-.header ul li a {
+.navbar a:after {
+    content: "";
+    position: absolute;
+    background-color: var(--whiteColor);
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: -3px;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
     color: var(--whiteColor);
+}
+
+.navbar a:hover::after {
+    width: 100%;
 }
