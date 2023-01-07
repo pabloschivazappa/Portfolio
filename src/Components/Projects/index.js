@@ -1,7 +1,7 @@
 import React from "react";
 import styles from './projects.module.css';
-import Trackgenix from '../../assets/TrackGenix-project.png'
-import Tilt from 'react-vanilla-tilt'
+import Trackgenix from '../../assets/TrackGenix-project.png';
+import Tilt from 'react-vanilla-tilt';
 
 const Projects = () => {
     return(

@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.skillsTitle {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.skills {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 30px;
+    position: relative;
+}
+
+.languagesBox h3 {
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+.languagesBox ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    background: rgba(92, 92, 92, 0.08);
+    border-radius: 3px;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.languagesBox ul li {
+    color: var(--grayColor);
+    margin-right: 15px;
+    margin-top: 4px;
+}
