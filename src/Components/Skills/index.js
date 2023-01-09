@@ -1,7 +1,7 @@
 import React from "react";
-import styles from './languages.module.css';
+import styles from './skills.module.css';
 
-const Lenguages = () => {
+const Skills = () => {
     const data = [
         {
             title: "Languages",
@@ -18,11 +18,11 @@ const Lenguages = () => {
     ]
     return (
         <section id="skills" className={styles.container}>
-            <h3 className={styles.skillsTitle}>Skills</h3>
+            <h3 className={styles.skillsTitle} data-aos="zoom-out">Skills</h3 >
             <div className={styles.skills}>
                 {
                     data.map(item => (
-                        <div className={styles.languagesBox} key={item.title}>
+                        <div className={styles.languagesBox} key={item.title} data-aos="zoom-in">
                             <h3>{item.title}</h3>
                             <ul>
                                 {
@@ -39,4 +39,4 @@ const Lenguages = () => {
     )
 };
 
-export default Lenguages
+export default Skills;

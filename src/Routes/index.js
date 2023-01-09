@@ -5,7 +5,7 @@ import Header from "../Components/Header";
 import Footer from "../Components/Footer";
 import Contact from "../Components/Contact";
 import Projects from "../Components/Projects";
-import Languages from "../Components/Languages";
+import Skills from "../Components/Skills";
 
 
 const Layout = () => {
@@ -17,7 +17,7 @@ const Layout = () => {
                 <Route path="/" component={Home} />
             </Switch>
         </BrowserRouter>
-        <Languages />
+        <Skills />
         <Projects />
         <Contact />
         <Footer />

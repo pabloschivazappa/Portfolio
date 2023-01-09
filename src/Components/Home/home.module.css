@@ -144,6 +144,7 @@
     }
     .homeText {
         max-width: none;
+        margin-top: 30px;
     }
 }
 
