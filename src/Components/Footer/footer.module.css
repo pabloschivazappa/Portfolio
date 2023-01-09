@@ -36,12 +36,15 @@ footer i:hover {
         align-items: center;
     }
     .copyright {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
+    }
+    footer .socials {
+        display: flex;
     }
     footer i{
         font-size: 2rem;
     }
     .footerName {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
 }
