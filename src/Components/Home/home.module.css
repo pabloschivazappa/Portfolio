@@ -137,3 +137,21 @@
 .imgBox .social a:hover {
     color: var(--whiteColor);
 }
+
+@media (max-width: 865px) {
+    .home {
+        justify-content: center;
+    }
+    .homeText {
+        max-width: none;
+    }
+}
+
+@media (max-width: 460px) {
+    .homeText strong{
+        font-size: 1.5rem;
+    }
+    .homeText h1 {
+        font-size: 3rem;
+    }
+}

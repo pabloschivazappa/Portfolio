@@ -40,3 +40,10 @@
     margin-right: 15px;
     margin-top: 4px;
 }
+
+@media (max-width: 865px) {
+    .skills {
+        display: flex;
+        flex-direction: column;
+    }
+}

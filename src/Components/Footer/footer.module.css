@@ -30,3 +30,18 @@ footer i:hover {
     letter-spacing: 1px;
     font-size: 0.9rem;
 }
+
+@media (max-width: 484px) {
+    footer {
+        align-items: center;
+    }
+    .copyright {
+        font-size: 0.8rem;
+    }
+    footer i{
+        font-size: 2rem;
+    }
+    .footerName {
+        font-size: 0.8rem;
+    }
+}

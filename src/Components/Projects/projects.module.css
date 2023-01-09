@@ -90,3 +90,20 @@
 .container .content .sourceCodeBtn:hover {
     color: var(--whiteColor);
 }
+
+@media (max-width: 865px) {
+    .project {
+        display: flex;
+        flex-direction: column;
+    }
+    .container .content {
+        width: 100%;
+    }
+}
+
+@media (max-width: 460px) {
+    .container .card {
+        width: 300px;
+        height: 187.5px;
+    }
+}

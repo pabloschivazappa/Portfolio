@@ -4,12 +4,12 @@ import styles from './languages.module.css';
 const Lenguages = () => {
     const data = [
         {
-            title: "Lenguages",
+            title: "Languages",
             content: ["Javascript", "React JS", "Node JS", "Express", "Python", "SQL"]
         },
         {
             title: "Software",
-            content: ["VS Code"]
+            content: ["VS Code", "Postman", "GIT"]
         },
         {
             title: "Database",

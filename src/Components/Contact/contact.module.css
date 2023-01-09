@@ -26,3 +26,9 @@
     margin: 15px 0;
     letter-spacing: 1px;
 }
+
+@media (max-width: 430px) {
+    .contact h3 {
+        font-size: 2rem;
+    }
+}
