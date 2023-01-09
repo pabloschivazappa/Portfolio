@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5265c140.css",
-    "main.js": "/Portfolio/static/js/main.4c15d283.js",
-    "static/media/Resume-Pablo-Schivazappa-2023.pdf": "/Portfolio/static/media/Resume-Pablo-Schivazappa-2023.992f15a5e6b79d2af12a.pdf",
+    "main.css": "/Portfolio/static/css/main.00de7238.css",
+    "main.js": "/Portfolio/static/js/main.4ed3f1bd.js",
+    "static/media/Resume-Pablo-Schivazappa-2023.pdf": "/Portfolio/static/media/Resume-Pablo-Schivazappa-2023.481a82d6cdb14333438a.pdf",
     "static/media/TrackGenix-project.png": "/Portfolio/static/media/TrackGenix-project.0035a516f9f46ef3d28c.png",
     "static/media/Pablo-Schivazappa.jpg": "/Portfolio/static/media/Pablo-Schivazappa.28f94e559b2e53f79604.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.5265c140.css.map": "/Portfolio/static/css/main.5265c140.css.map",
-    "main.4c15d283.js.map": "/Portfolio/static/js/main.4c15d283.js.map"
+    "main.00de7238.css.map": "/Portfolio/static/css/main.00de7238.css.map",
+    "main.4ed3f1bd.js.map": "/Portfolio/static/js/main.4ed3f1bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.5265c140.css",
-    "static/js/main.4c15d283.js"
+    "static/css/main.00de7238.css",
+    "static/js/main.4ed3f1bd.js"
   ]
 }
