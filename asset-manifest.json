@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.81ca7e4b.css",
-    "main.js": "/Portfolio/static/js/main.3c49351f.js",
+    "main.js": "/Portfolio/static/js/main.a2a61b51.js",
     "static/media/Resume-Pablo-Schivazappa-2023.pdf": "/Portfolio/static/media/Resume-Pablo-Schivazappa-2023.481a82d6cdb14333438a.pdf",
     "static/media/TrackGenix-project.png": "/Portfolio/static/media/TrackGenix-project.0035a516f9f46ef3d28c.png",
     "static/media/Pablo-Schivazappa.jpg": "/Portfolio/static/media/Pablo-Schivazappa.28f94e559b2e53f79604.jpg",
     "index.html": "/Portfolio/index.html",
     "main.81ca7e4b.css.map": "/Portfolio/static/css/main.81ca7e4b.css.map",
-    "main.3c49351f.js.map": "/Portfolio/static/js/main.3c49351f.js.map"
+    "main.a2a61b51.js.map": "/Portfolio/static/js/main.a2a61b51.js.map"
   },
   "entrypoints": [
     "static/css/main.81ca7e4b.css",
-    "static/js/main.3c49351f.js"
+    "static/js/main.a2a61b51.js"
   ]
 }
